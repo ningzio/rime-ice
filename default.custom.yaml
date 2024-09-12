@@ -1,0 +1,8 @@
+patch:
+  schema_list:
+    - schema: rime_ice
+  menu/page_size: 9
+  switcher/hotkeys:
+    - F4
+  fold_options: false
+  ascii_composer/switch_key/Caps_Lock: commit_code
