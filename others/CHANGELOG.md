@@ -4,6 +4,47 @@
 
 ---
 
+*2025.12.08 Release*
+
+### 2025-12-08
+
+- 修正了 lua 注释中的引入错误 [#1405](https://github.com/iDvel/rime-ice/issues/1405)
+
+### 2025-10-31
+
+- `uuid.lua` 生成符合 RFC 4122 标准的 UUID v4 [#1383](https://github.com/iDvel/rime-ice/pull/1383)
+
+### 2025-10-23
+
+- 以词定字长句输入支持 ([#1252](https://github.com/iDvel/rime-ice/issues/1252))
+- 计算器百分号支持([#1298](https://github.com/iDvel/rime-ice/pull/1298))
+
+### 2025-06-09
+
+- 添加拼音加加双拼方案 [#1228](https://github.com/iDvel/rime-ice/pull/1228)
+
+---
+
+*2025.04.06 Release*
+
+## 2025-04-06
+
+- 消除输入框里大写字母之间的空格 [#1213](https://github.com/iDvel/rime-ice/issues/1213)
+
+## 2025-03-30
+
+- `editor` 配置示例（定制操作键的行为） [#1131](https://github.com/iDvel/rime-ice/pull/1131)
+
+## 2025-03-30
+
+- 所有中文词汇的连接号暂时统一使用 Hyphen-minus `U+002D` [#1194](https://github.com/iDvel/rime-ice/pull/1194)
+
+## 2025-02-24
+
+- 适配 `punctuator` 新属性 [#1180](https://github.com/iDvel/rime-ice/issues/1180)
+
+---
+
 *2024.12.12 Release*
 
 ## 2024-12-06
